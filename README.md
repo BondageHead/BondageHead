@@ -1,7 +1,6 @@
-- 👋 Hola, soy BondageHead
+- 👋 Hola, soy Matías
 - 👀 Estoy interesado en aprendera codificar en GitHub
 - 🌱 Actualmente estoy aprendiendo a crear repositorios
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
